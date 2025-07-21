@@ -2,11 +2,14 @@
 A repository of documentation and other materials representing my professional portfolio.
 
 ## Resume
-My current resume is available here.
+[My current resume is available here.](https://github.com/csebianlander/csl-portfolio/blob/main/Resume%20-%20Sebian-Lander%2C%20Chuck.pdf)
 
-## User research and project development
+## UX/UI and project management
 A compilation of websites on which I've worked and documentation where available.
 
 - **Consumer Financial Protection Bureau**: My current role involves content management and digital strategy for consumerfinance.gov, the public website of the CFPB. Work includes user and stakeholder research, internal systems development, UX/UI development, and content publication workflow management. Documentation and materials available on request.
 - **Office on Women's Health**: My former role at Palladian Partners involved digital project management for womenshealth.gov, the public website of the HHS Office on Women's Health. Work included user and stakeholder research and discovery via user journeys and audience identification, content management system maintenance and migration, publication workflow management, and other tasks related to the design and development lifecycle of the website. Documentation and materials available on request.
-- **MetaFilter**: In a volunteer capacity with MetaFilter, a web community, I conducted semi-structured user interviews to iterate on a submission form for website users to address moderation issues, and produced a high-level report for public viewing.
+- **MetaFilter**: In a volunteer capacity with MetaFilter, a web community, I conducted semi-structured user interviews to iterate on a submission form for website users to address moderation issues, and [produced a high-level report for public viewing](https://github.com/csebianlander/csl-portfolio/blob/main/MetaFilter%20-%20User%20Interviews%20and%20Results.pdf).
+
+## Web development
+My Github account contains some small-scale projects I've built in order to attain and maintain web development skills in basic front-end development, including HTML/CSS, Javascript and JQuery, and Python. It also contains a NodeJS version of a [staff evaluation appliation](https://github.com/csebianlander/cobpe2021) I produced in a professional capacity for the U.S. Citi Open, a DC-area tennis tournament.
