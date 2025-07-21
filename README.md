@@ -18,3 +18,10 @@ A compilation of websites on which I've worked and documentation where available
 
 ## Web development
 My Github account contains some small-scale projects I've built in order to attain and maintain web development skills in basic front-end development, including HTML/CSS, Javascript and JQuery, and Python. It also contains a NodeJS version of a [staff evaluation appliation](https://github.com/csebianlander/cobpe2021) I produced in a professional capacity for the U.S. Citi Open, a DC-area tennis tournament.
+
+##Writing
+I have written and published poetry and short stories.
+
+On my blog I write [reviews and critical analysis of video games and media](https://write.as/kybard/).
+
+I've written board game reviews for [Rolling in the Meep](https://rollinginthemeep.com/).
