@@ -1,5 +1,7 @@
-# csl-portfolio
-A repository of documentation and other materials representing my professional portfolio.
+# Chuck Sebian-Lander
+I'm a strategic, self-directed digital communication and technical professional with cross-disciplinary expertise in content strategy, user experience, and digital project management and leadership.
+
+This repository contains some details and portfolio materials representing highlights of my professional work.
 
 ## Resume
 [My current resume is available here.](https://github.com/csebianlander/csl-portfolio/blob/main/Resume%20-%20Sebian-Lander%2C%20Chuck.pdf)
